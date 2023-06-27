@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @akdagkaan
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java , C# , Python , C
+- 🌱 I’m currently learning Java , C# , Python , C , Flutter, Dart, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
